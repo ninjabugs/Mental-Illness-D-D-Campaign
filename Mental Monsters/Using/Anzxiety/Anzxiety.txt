@@ -1,0 +1,10 @@
+Possesion effects: nervious, avoidant
+Possessed additute: neutral/agressive
+
+Possesion location: Sits on shoulder
+Vissible: Sits on shoulder
+
+Description: Pale/grey purple, rabit-like, stands on hind legs, feathered tail, skull face, carries trinket (clock, childhood picture, document)
+
+CR: 1
+Stats: Imp

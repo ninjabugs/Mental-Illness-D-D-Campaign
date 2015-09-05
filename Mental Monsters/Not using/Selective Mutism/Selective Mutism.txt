@@ -1,0 +1,10 @@
+Possesion effects: Will only talk to one party member
+Possession additude: passive
+
+Possesion location: mouth
+Vissible: holding head, hands in mouth of victom
+
+Description: squirl with bark mask, purple, whispy dark hair
+
+CR: 
+Stats: 

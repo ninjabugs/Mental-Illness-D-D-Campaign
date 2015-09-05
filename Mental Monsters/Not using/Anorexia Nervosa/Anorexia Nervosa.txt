@@ -1,0 +1,12 @@
+Posession effects: Thin, acting poor to the point of damage
+Possessed additute: Non-agressive
+
+Possesion location: Enters head of victom
+Vissible: floats in space of victoms head
+
+Description: purple, gradient from dark to light/head to tentacles, squid torso and legs, jellyfish whispy tail, white smooth jem surrounded by soft crown
+
+CR: 
+Stats:
+
+Works with: Body Dismorphia

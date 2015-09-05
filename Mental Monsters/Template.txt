@@ -1,0 +1,21 @@
+Possesion effects: 
+Possession additude: 
+
+Possesion location: 
+Vissible: 
+
+Description: 
+
+CR: 
+Stats: 
+
+Possesion effects: How the possessed acts
+Possession additude: how likely the possessed will attack
+
+Possesion location: Where on the body does the monster possess
+Vissible: Where is it vissible
+
+Description: What does it look like?
+
+CR: Challenge
+Stats: What stat block to use

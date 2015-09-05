@@ -1,0 +1,13 @@
+With a party of 4 level 1's, exp thresholds:
+Easy = 100
+medium = 200
+hard = 300
+deadly = 400
+
+challenge
+0   = 10xp
+1/8 = 25xp
+1/4 = 50xp
+1/2 = 100xp
+1   = 200xp
+2 = 450xp
